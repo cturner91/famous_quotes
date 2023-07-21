@@ -1,0 +1,6 @@
+
+fix bug on QuoteView Screen where full link does not propagate down to the individual ShareLinks
+
+e2e tests at least, if not also full FE unit-tests too. Maybe do a quiet release for SEO etc while writing these tests
+
+sign up to newsletter? allow users to get the QOTD emailed to them on certain days / at fixed times

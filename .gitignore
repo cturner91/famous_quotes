@@ -1,0 +1,11 @@
+*/node_modules/*
+__pycache__
+*.pyc
+/mysql
+.DS_Store
+quotes-env
+/backend/famous_quotes/quotes/logs/
+/backend/famous_quotes/static/
+/backend/famous_quotes/famous_quotes/secrets.py
+
+frontend/src/images/original/*
